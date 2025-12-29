@@ -1,0 +1,6 @@
+# FICHIER À SUPPRIMER
+# Ce fichier doit être supprimé car il cause une erreur de compilation
+# La fonction toResponse() existe déjà dans service.go
+
+# Exécutez cette commande pour supprimer ce fichier :
+# rm /Users/ibrahim/Documents/police1/police-trafic-api-frontend-aligned/internal/modules/convocations/service_toresponse.go

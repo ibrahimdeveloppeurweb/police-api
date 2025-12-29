@@ -1,0 +1,80 @@
+{
+  "reference": "REF-2025-001",
+  "typeConvocation": "AUDITION_TEMOIN",
+  "sousType": "AUDITION_SIMPLE",
+  "urgence": "NORMALE",
+  "priorite": "MOYENNE",
+  "confidentialite": "STANDARD",
+  
+  "affaireNumero": "AFF-2025-123",
+  "affaireType": "CRIMINELLE",
+  "affaireTitre": "Vol avec violence",
+  "sectionJudiciaire": "SECTION_1",
+  "infraction": "Vol aggravé",
+  "qualificationLegale": "Art. 379 Code Pénal",
+  
+  "statutPersonne": "TEMOIN",
+  "nom": "KOUASSI",
+  "prenom": "Jean-Marc",
+  "dateNaissance": "1985-06-15",
+  "lieuNaissance": "Abidjan, Côte d'Ivoire",
+  "nationalite": "Ivoirienne",
+  "profession": "Commerçant",
+  "situationFamiliale": "MARIE",
+  "nombreEnfants": "2",
+  
+  "typePiece": "CNI",
+  "numeroPiece": "CI2024567890",
+  "dateDelivrancePiece": "2020-01-10",
+  "lieuDelivrancePiece": "Abidjan",
+  "dateExpirationPiece": "2030-01-10",
+  
+  "telephone1": "+225 07 12 34 56 78",
+  "telephone2": "+225 05 98 76 54 32",
+  "email": "jmkouassi@example.com",
+  "adresseResidence": "Cocody, Riviera 2, Rue des Jardins, Villa 45",
+  "adresseProfessionnelle": "Marcory Zone 4, Marché central",
+  
+  "sexe": "MASCULIN",
+  "taille": "175",
+  "poids": "75",
+  "signesParticuliers": "Cicatrice au front gauche",
+  "photoIdentite": true,
+  "empreintes": false,
+  
+  "dateCreation": "2025-12-26",
+  "heureConvocation": "14:30",
+  "dateRdv": "2025-12-30",
+  "heureRdv": "10:00",
+  "dureeEstimee": 90,
+  "typeAudience": "STANDARD",
+  
+  "lieuRdv": "Commissariat Central d'Abidjan",
+  "bureau": "Bureau 204",
+  "salleAudience": "Salle A",
+  "pointRencontre": "Accueil principal, 2ème étage",
+  "accesSpecifique": "Prendre l'ascenseur principal jusqu'au 2ème étage, tourner à droite",
+  
+  "convocateurNom": "TRAORE",
+  "convocateurPrenom": "Mamadou",
+  "convocateurMatricule": "MAT-12345",
+  "convocateurFonction": "Officier de Police Judiciaire",
+  
+  "agentsPresents": "Agent KONE Seydou (MAT-67890), Agent DIALLO Fatou (MAT-11223)",
+  "representantParquet": true,
+  "nomParquetier": "Procureur BAMBA",
+  "expertPresent": false,
+  "interpreteNecessaire": false,
+  "avocatPresent": false,
+  
+  "motif": "Audition dans le cadre d'une enquête sur vol avec violence. Témoin direct des faits survenus le 20 décembre 2025.",
+  "objetPrecis": "Recueillir le témoignage complet sur les circonstances du vol",
+  "questionsPreparatoires": "1. Décrire les faits observés\n2. Identifier les auteurs si possible\n3. Préciser l'heure et le lieu exacts",
+  "piecesAApporter": "- Pièce d'identité originale\n- Attestation de domicile\n- Photos ou vidéos si disponibles",
+  "documentsDemandes": "Carte d'identité nationale, Permis de conduire",
+  
+  "observations": "Témoin clé dans cette affaire. A déjà fait une déclaration préliminaire. Audition approfondie nécessaire.",
+  
+  "statut": "EN_ATTENTE",
+  "modeEnvoi": "MANUEL"
+}

@@ -1,0 +1,35 @@
+server:
+  port: "8080"
+  read_timeout: "10s"
+  write_timeout: "10s"
+  shutdown_timeout: "10s"
+
+database:
+  host: "localhost"
+  port: 5432
+  user: "root"
+  password: "root"
+  dbname: "police_traffic"
+  sslmode: "disable"
+  max_open_conns: 25
+  max_idle_conns: 5
+  conn_max_lifetime: "5m"
+
+jwt:
+  secret: "your-secret-key-change-in-production"
+  access_expiration: "24h"
+  refresh_expiration: "168h"
+
+app:
+  name: "Police Traffic API - Frontend Aligned"
+  environment: "development"
+  debug: true
+  log_level: "info"
+
+openai:
+  api_key: "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"
+  model: "gpt-4o-mini"
+
+
+
+
