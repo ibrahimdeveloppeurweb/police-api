@@ -27,7 +27,7 @@ app:
   log_level: "info"
 
 openai:
-  api_key: "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"
+  api_key: ""
   model: "gpt-4o-mini"
 
 
